@@ -1,7 +1,5 @@
 # Ignore all test and documentation for archive
 /.github            export-ignore
-/docs               export-ignore
-/tests              export-ignore
 /.dockerignore      export-ignore
 /.editorconfig      export-ignore
 /.env.example       export-ignore
